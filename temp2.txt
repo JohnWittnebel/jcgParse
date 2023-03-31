@@ -1,0 +1,410 @@
+<!doctype html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>JCG Shadowverse Open 25th Season Vol.2 3月31日 ローテーション大会 グループ予選 |  JCG Shadowverse Open</title>
+    <meta name="title" content="JCG Shadowverse Open 25th Season Vol.2 3月31日 ローテーション大会 グループ予選 |  JCG Shadowverse Open">
+    <meta name="author" content="JCG Co., Ltd.">
+    <meta name="description" content="JCG Shadowverse Openは、JCGが運営するCygames社提供の本格スマホカードバトル「Shadowverse」の大会の総称です。
+毎週水金土日祝日に定期的に開催されるローテーション大会・アンリミテッド大会・2Pick大会と、不定期に開催される特別大会があります。">
+    <meta property="og:title"
+          content="JCG Shadowverse Open 25th Season Vol.2 3月31日 ローテーション大会 グループ予選 |  JCG Shadowverse Open">
+    <meta property="og:type" content="Game">
+    <meta property="og:url" content="https://sv.j-cg.com/">
+    <meta property="og:site_name"
+          content="JCG Shadowverse Open 25th Season Vol.2 3月31日 ローテーション大会 グループ予選 |  JCG Shadowverse Open">
+    <meta property="og:description"
+          content="JCG Shadowverse Openは、JCGが運営するCygames社提供の本格スマホカードバトル「Shadowverse」の大会の総称です。
+毎週水金土日祝日に定期的に開催されるローテーション大会・アンリミテッド大会・2Pick大会と、不定期に開催される特別大会があります。">
+    <meta property="og:image" content="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/images/twitter_card.png?m=35">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@JCGjp">
+    <meta name="twitter:image" content="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/images/twitter_card.png?m=35">
+    <!-- <meta name="viewport" content="width=360,initial&#45;scale=1"> -->
+
+    <meta id="viewport" name="viewport" content="width=device-width,initial-scale=1">
+    <script>if (window.innerWidth < 375) {
+            document.getElementById('viewport').setAttribute('content', 'width=375');
+        }</script>
+
+    <!--icon-->
+    <!--<link rel="icon" type="image/x-icon" href="https://www.jcg.co.jp/favicon.ico">-->
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.j-cg.com/favicon.ico"/>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.5/es6-shim.min.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&display=swap" rel="stylesheet" crossorigin>
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="stylesheet" type="text/css"
+              href="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/css/style.min.css?m=35">
+        <link rel="shortcut icon" href="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/images/favicon.ico?m=35">
+    <link href="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/fonts/icomoon/style.css?m=35" rel="stylesheet">
+    <script src="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/vendor/jquery.js?m=35"></script>
+    <script src="https://cdn.jsdelivr.net/npm/modaal@0.4.4/dist/js/modaal.min.js"></script>
+
+            <script type="text/javascript"
+                src="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/javascript/main.min.js?m=35"></script>
+        
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.7.3/dist/alpine.min.js" defer></script>
+    <script src="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/vendor/Chart.min.js?m=35"></script>
+
+</head>
+<style>.cgCompetitionCard .checkinDatetime {
+        display: none;
+    !important !
+    }
+</style>
+<body id="index">
+<header id="header" class="header">
+    <div class="header-inner">
+        <div class="header-content left">
+            <div class="header-logo">
+                <a href="/"><img src="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/images/logo.svg?m=35" alt=""></a>
+            </div>
+            <nav id="headerNav" class="header-nav">
+                <ul class="nav-list large-only">
+                    <li class="nav-item"><a href="https://sv.j-cg.com/schedule">大会スケジュール</a></li>
+                    <li class="nav-item"><a href="https://sv.j-cg.com/howtojoin">大会紹介</a></li>
+                    <li class="nav-item"><a href="https://sv.j-cg.com/news">ニュース</a></li>
+                    <li class="nav-item"><a href="https://sv.j-cg.com/news/2303">個人協賛のご案内</a></li>
+                </ul>
+                <div id="navList" class="collapsed-nav-list-wrapper">
+                    <div class="collapsed-nav-list-header">
+                        <div id="headerCloseButton">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+                                <defs>
+                                    <style>.cls-1, .cls-2 {
+                                            fill: none;
+                                        }
+
+                                        .cls-2 {
+                                            stroke: #fff;
+                                            stroke-linecap: round;
+                                            stroke-linejoin: round;
+                                            stroke-width: 2px;
+                                        }</style>
+                                </defs>
+                                <title>cross_24</title>
+                                <g>
+                                    <g id="Rectangle">
+                                        <rect class="cls-1" width="48" height="48"/>
+                                    </g>
+                                    <g id="icon_data">
+                                        <line class="cls-2" x1="12.13" y1="12.63" x2="36.13" y2="36.13"/>
+                                        <line class="cls-2" x1="12.38" y1="36.38" x2="35.88" y2="12.38"/>
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+
+                    </div>
+                    <ul class="collapsed-nav-list">
+                        <li class="nav-item"><a href="https://sv.j-cg.com">ホーム</a></li>
+                        <li class="nav-item"><a href="https://sv.j-cg.com/schedule">大会スケジュール</a></li>
+                        <li class="nav-item"><a href="https://sv.j-cg.com/howtojoin">大会紹介</a></li>
+                        <li class="nav-item nav-item--collapsed">
+                            <div class="collapsible">
+                                <div class="collapsible-header">大会規約</div>
+                                <div class="collapsible-content">
+                                    <a href="https://sv.j-cg.com/page/terms">大会共通規約</a>
+                                    <a href="https://d2ix66na9gnh44.cloudfront.net/storage/app/media/pdf/JCG_Shadowverse_%E5%80%8B%E4%BA%BA%E5%8D%94%E8%B3%9B_%E5%A4%A7%E4%BC%9A%E8%A6%8F%E7%B4%84.pdf?m=4">個人協賛大会</a>
+                                    <a href="https://d2ix66na9gnh44.cloudfront.net/storage/app/media/pdf/JCG_Shadowverse_Swissdraw_Rule_v3.pdf?m=4">スイスドロー大会</a>
+                                    <a href="https://d2ix66na9gnh44.cloudfront.net/storage/app/media/pdf/JCG_Shadowverse_Millioncup_Rule.pdf?m=2">ミリオンカップ</a>
+                                    <a href="https://d2ix66na9gnh44.cloudfront.net/storage/app/media/pdf/JCG_Shadowverse_Doubles_Rule_rev4.pdf">ダブルス大会</a>
+                                    <a href="https://d2ix66na9gnh44.cloudfront.net/storage/app/media/pdf/JCG_Shadowverse_team_rule.pdf?m=2">3人チーム戦大会</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-item"><a href="https://sv.j-cg.com/news">ニュース</a></li>
+                        <li class="nav-item"><a href="https://sv.j-cg.com/news/2303">個人協賛のご案内</a></li>
+                        <li class="nav-item"><a href="https://help.j-cg.com/">HELP & SUPPORT</a></li>
+                        <li class="nav-item"><a
+                                href="https://docs.google.com/forms/d/e/1FAIpQLSfsHMrqmd6g70-h0kkIxEbWpb_Uv639rF0M1kMoy_9zJE0HJw/viewform"
+                                target="_blank">ご意見・ご要望フォーム</a></li>
+                                            </ul>
+                    <div class="nav-button-wrapper">
+                                                    <a href="javascript:;" class="menu-logout" data-request="onCgLogin">ログイン</a>
+                                            </div>
+                </div>
+                <div id="navListBg" class="collapsed-nav-list__background"></div>
+            </nav>
+        </div>
+        <div class="header-content right">
+                            <a href="javascript:;" class="header-button" data-request="onCgLogin">ログイン</a>
+                        <span class="">
+                <a id="headerMenuButton" class="header-menu-button"><i class="material-icons">menu</i></a>
+            </span>
+        </div>
+    </div>
+</header>
+</div>
+
+</header><main>
+    <style>
+    .cgCompetitionBracketTour .cgCompetitionBracketSwiss_myMatches {
+        color: #fff;
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+    .cgCompetitionBracketMatchDialog .commitMatchResult button {
+        color: #fff;
+    }
+
+    .cgLibSnackbarEntry_event .message {
+        color: #fff;
+    }
+</style>
+<div class="page competition-page">
+        <div class="page-item page-header">
+    <div class="page-header-inner competition-header">
+        <div class="competition-item">
+            <div class="competition-item-inner">
+                <div class="competition-icon">
+                    <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
+                </div>
+                <div class="competition-detail">
+                    <span
+                        style="color:#7f8c8d;border-color:#7f8c8d"
+                        class="competition-status competition-status-EXIT">終了</span>
+                    <div class="competition-date">03.31
+                        <span>[Fri]</span> 18:20
+                    </div>
+                    <div class="competition-title">JCG Shadowverse Open 25th Season Vol.2 3月31日 ローテーション大会 グループ予選
+                                                                    </div>
+                                            <div class="competition-entry-count">エントリー数 <span
+                                class='entry-count'>517/256</span>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="competition-button-wrapper">
+                    </div>
+
+    </div>
+    <style>
+    #cgCompetition_entryInfo_header{
+        font-size: 1.4rem;
+    }
+    .cgCompetition_entryInfo_body dd {
+        font-size: 1.5rem;
+    }
+
+    .cgCompetition_entryInfo_body dt {
+        font-size: 1.3rem;
+    }</style>
+</div>
+<div class="page-item page-tab">
+    <ul class="page-item-inner tab competition-tab">
+        <li class="tab-item ">
+            <a href="https://sv.j-cg.com/competition/k3HeLraSI0ds/home">大会概要</a>
+        </li>
+                    <li class="tab-item ">
+                <a href="https://sv.j-cg.com/competition/k3HeLraSI0ds/entries">参加者一覧</a>
+            </li>
+                            <li class="tab-item active">
+                <a href="https://sv.j-cg.com/competition/k3HeLraSI0ds/bracket">対戦表</a>
+            </li>
+                            <li class="tab-item ">
+                <a href="https://sv.j-cg.com/competition/k3HeLraSI0ds/results">結果</a>
+            </li>
+                <li class="tab-item">
+            <a href="https://discord.gg/mqGYNSF" target="_blank">大会Discord <span
+                    class="material-icons">launch</span></a>
+        </li>
+    </ul>
+</div>
+<div class="page-item page-content">
+    <div class="page-content-bg"></div>
+    <span class="page-content-bg-overlay-tri left top"></span>
+    <div class="content page-item-inner">
+        <div class="content-inner">        <script>
+        _INLINE_BRACKET_DATA = {"apiUrl":"https:\/\/sv.j-cg.com\/api","bracket":{"third_place":false,"id":5912,"type":"TOUR","sioName":"8922fc10-cfa2-11ed-840d-ab1fb77c2eec"},"groups":[{"id":143574,"code":"1","name":"\u30b0\u30eb\u30fc\u30d701","rounds":[],"sioName":"891332e0-cfa2-11ed-899d-554e51abe189"},{"id":143575,"code":"2","name":"\u30b0\u30eb\u30fc\u30d702","rounds":[],"sioName":"89143760-cfa2-11ed-ad9a-85e3fb99ee52"},{"id":143576,"code":"3","name":"\u30b0\u30eb\u30fc\u30d703","rounds":[],"sioName":"89157200-cfa2-11ed-901f-9732509bb934"},{"id":143577,"code":"4","name":"\u30b0\u30eb\u30fc\u30d704","rounds":[],"sioName":"89168800-cfa2-11ed-aa0d-23c06c3393e8"},{"id":143578,"code":"5","name":"\u30b0\u30eb\u30fc\u30d705","rounds":[],"sioName":"891752c0-cfa2-11ed-b38e-2b8002a13a46"},{"id":143579,"code":"6","name":"\u30b0\u30eb\u30fc\u30d706","rounds":[],"sioName":"89183070-cfa2-11ed-a9f1-e1bc221be731"},{"id":143580,"code":"7","name":"\u30b0\u30eb\u30fc\u30d707","rounds":[],"sioName":"89193060-cfa2-11ed-bab3-e93c8c9a5fc5"},{"id":143581,"code":"8","name":"\u30b0\u30eb\u30fc\u30d708","rounds":[],"sioName":"891a1ce0-cfa2-11ed-9f58-9d76d85db37b"},{"id":143582,"code":"9","name":"\u30b0\u30eb\u30fc\u30d709","rounds":[],"sioName":"891ad350-cfa2-11ed-bacb-c50be87aa83f"},{"id":143583,"code":"10","name":"\u30b0\u30eb\u30fc\u30d710","rounds":[],"sioName":"891bc850-cfa2-11ed-b057-bd198b694a1b"},{"id":143584,"code":"11","name":"\u30b0\u30eb\u30fc\u30d711","rounds":[],"sioName":"891cb5b0-cfa2-11ed-9d4e-8f6eb0ee561e"},{"id":143585,"code":"12","name":"\u30b0\u30eb\u30fc\u30d712","rounds":[],"sioName":"891d86c0-cfa2-11ed-bef2-69b87b735698"},{"id":143586,"code":"13","name":"\u30b0\u30eb\u30fc\u30d713","rounds":[],"sioName":"891e8cf0-cfa2-11ed-bcdb-b50df29eccc8"},{"id":143587,"code":"14","name":"\u30b0\u30eb\u30fc\u30d714","rounds":[],"sioName":"891f80b0-cfa2-11ed-9e14-ff39790392e3"},{"id":143588,"code":"15","name":"\u30b0\u30eb\u30fc\u30d715","rounds":[],"sioName":"89203700-cfa2-11ed-b2f7-b3cc158d72c0"},{"id":143589,"code":"16","name":"\u30b0\u30eb\u30fc\u30d716","rounds":[],"sioName":"892120e0-cfa2-11ed-be08-a12187cff607"}],"myUsername":"","myTeamId":0,"myGroupCode":"","isa":false,"settings":{"competitionName":"JCG Shadowverse Open 25th Season Vol.2 3\u670831\u65e5 \u30ed\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3\u5927\u4f1a \u30b0\u30eb\u30fc\u30d7\u4e88\u9078","appName":"october_sv_live","baseUrl":"https:\/\/sv.j-cg.com\/","websockUrl":"https:\/\/sv.j-cg.com:3001\/","useCompassBattleScore":false,"useMatchRoom":true,"useScore":false,"useScreenShot":false,"bracketGroupsVisibility":true,"labelScore":"\u30b9\u30b3\u30a2","useMapkick":false,"participantType":"SOLO","matchDescription":"<div class=\"cgStyleCMS\">\n<p>\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u4e0a\u306e\u4e0a\u5074\u3001\u3082\u3057\u304f\u306f\u5bfe\u6226\u30da\u30fc\u30b8\u306e\u5de6\u5074\u304c\u30db\u30b9\u30c8\u3068\u306a\u308a\u3001\u30eb\u30fc\u30e0\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002<\/p>\n<ul>\n<li>\u30db\u30b9\u30c8\u306f\u30eb\u30fc\u30e0\u3092\u4f5c\u6210\u3057\u305f\u3089\u3001\u672c\u30da\u30fc\u30b8\u4e0a\u90e8\u306e\u5165\u529b\u30c1\u30e3\u30c3\u30c8\u3067\u5bfe\u6226\u76f8\u624b\u306b\u30eb\u30fc\u30e0ID\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<li>\u30eb\u30fc\u30eb\u4e0a\u306e\u6642\u9593\u5185\u306b\u30eb\u30fc\u30e0ID\u306e\u8a18\u8f09\u304c\u306a\u304b\u3063\u305f\u3089\u3001Discord\u306e\u30c1\u30e3\u30c3\u30c8\u3067\u904b\u55b6\u306b\u5831\u544a\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<li>Discord\u4e0a\u3067\u9023\u7d61\u304c\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u4e0d\u6226\u6557\u3068\u3057\u3066\u6271\u3046\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002<\/li>\n<li>\u5927\u4f1a\u4e2d\u30c8\u30e9\u30d6\u30eb\u304c\u767a\u751f\u3057\u305f\u5834\u5408\u3001\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8\u3092\u63d0\u793a\u3059\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002<\/li>\n<li>\u30c8\u30e9\u30d6\u30eb\u767a\u751f\u6642\u306b\u5bfe\u6226\u76f8\u624b\u540d\u304c\u5206\u304b\u308b\u5f62\u3067\u53d6\u5f97\u3057\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<\/ul>\n<\/div>","useSegment":0,"useGroupNameOnSelection":false,"segmentDesc":null,"segmentFinalChar":null,"discordChannels":[{"groupCode":null,"blockId":1,"name":"#\u30b0\u30eb\u30fc\u30d71","url":"https:\/\/discord.gg\/qgvHMjx"},{"groupCode":null,"blockId":2,"name":"#\u30b0\u30eb\u30fc\u30d72","url":"https:\/\/discord.gg\/9FsxHfW"},{"groupCode":null,"blockId":3,"name":"#\u30b0\u30eb\u30fc\u30d73","url":"https:\/\/discord.gg\/k5Frhwt"},{"groupCode":null,"blockId":4,"name":"#\u30b0\u30eb\u30fc\u30d74","url":"https:\/\/discord.gg\/Q4F8rmy"},{"groupCode":null,"blockId":5,"name":"#\u30b0\u30eb\u30fc\u30d75","url":"https:\/\/discord.gg\/39S7cVd"},{"groupCode":null,"blockId":6,"name":"#\u30b0\u30eb\u30fc\u30d76","url":"https:\/\/discord.gg\/ZXaegwN"},{"groupCode":null,"blockId":7,"name":"#\u30b0\u30eb\u30fc\u30d77","url":"https:\/\/discord.gg\/jvw8JMK"},{"groupCode":null,"blockId":8,"name":"#\u30b0\u30eb\u30fc\u30d78","url":"https:\/\/discord.gg\/NzcPkV4"},{"groupCode":null,"blockId":9,"name":"#\u30b0\u30eb\u30fc\u30d79","url":"https:\/\/discord.gg\/Qax93kh"},{"groupCode":null,"blockId":10,"name":"#\u30b0\u30eb\u30fc\u30d710","url":"https:\/\/discord.gg\/nMWtfR7"},{"groupCode":null,"blockId":11,"name":"#\u30b0\u30eb\u30fc\u30d711","url":"https:\/\/discord.gg\/n5fRWdN"},{"groupCode":null,"blockId":12,"name":"#\u30b0\u30eb\u30fc\u30d712","url":"https:\/\/discord.gg\/vEnhH3x"},{"groupCode":null,"blockId":13,"name":"#\u30b0\u30eb\u30fc\u30d713","url":"https:\/\/discord.gg\/j4TaU5Q"},{"groupCode":null,"blockId":14,"name":"#\u30b0\u30eb\u30fc\u30d714","url":"https:\/\/discord.gg\/yK88svp"},{"groupCode":null,"blockId":15,"name":"#\u30b0\u30eb\u30fc\u30d715","url":"https:\/\/discord.gg\/nhWyARV"},{"groupCode":null,"blockId":16,"name":"#\u30b0\u30eb\u30fc\u30d716","url":"https:\/\/discord.gg\/ZvyK8ut"}],"defaultDiscordChannel":{"name":"#general","url":null},"labelGameId":"Shadowverse\u5185 \u30b2\u30fc\u30e0ID","csrfToken":"fWbBSsO2SgaRDfL4zsDozZokdplJM4NzEwapZegK","competitionFinished":null,"needDiscordDeclaration":false,"individualMatch":false,"matchFormat":"general","svClans":[{"id":1,"name":"\u30a8\u30eb\u30d5","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/1.png"},{"id":2,"name":"\u30ed\u30a4\u30e4\u30eb","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/2.png"},{"id":3,"name":"\u30a6\u30a3\u30c3\u30c1","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/3.png"},{"id":4,"name":"\u30c9\u30e9\u30b4\u30f3","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/4.png"},{"id":5,"name":"\u30cd\u30af\u30ed\u30de\u30f3\u30b5\u30fc","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/5.png"},{"id":6,"name":"\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/6.png"},{"id":7,"name":"\u30d3\u30b7\u30e7\u30c3\u30d7","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/7.png"},{"id":8,"name":"\u30cd\u30e1\u30b7\u30b9","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/8.png"}],"renderer":""}}
+    </script>
+        <div class="competition-content-item main competition-entries">
+        <app-root></app-root>
+    </div>
+    </div>
+<ul class="competition-content-item tab competition-tab--bottom">
+
+    <li class="tab-item ">
+        <a href="https://sv.j-cg.com/competition/k3HeLraSI0ds/home">大会概要</a>
+    </li>
+            <li class="tab-item ">
+            <a href="https://sv.j-cg.com/competition/k3HeLraSI0ds/entries">参加者一覧</a>
+        </li>
+                <li class="tab-item active">
+            <a href="https://sv.j-cg.com/competition/k3HeLraSI0ds/bracket">対戦表</a>
+        </li>
+                <li class="tab-item ">
+            <a href="https://sv.j-cg.com/competition/k3HeLraSI0ds/results">結果</a>
+        </li>
+        <li class="tab-item">
+        <a href="https://discord.gg/mqGYNSF" target="_blank">大会Discord <span
+                class="material-icons">launch</span></a>
+    </li>
+</ul>
+<div class="competition-bottom-button-wrapper">
+    <a class="primary-button" href="https://sv.j-cg.com/schedule"><span>大会一覧</span></a>
+</div>
+</div>
+</div>
+<span class="page-content-bg-overlay-tri right bottom"></span>
+</div>
+
+
+<script src="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/vendor/micromodal.js?m=35"></script>
+<script>
+    window.addEventListener('load', function () {
+        MicroModal.init({
+            onClose: function (modal, element, event) {
+                event.preventDefault()
+                event.stopPropagation()
+            },
+            openClass: 'is-open',
+            disableScroll: true,
+            disableFocus: true,
+            awaitOpenAnimation: false,
+            awaitCloseAnimation: false,
+        });
+    })
+</script>
+<div class="modal" id="modal-entry" aria-hidden="true">
+    <div class="modal-overlay" tabindex="-1" data-micromodal-close>
+        <div class="modal-container" role="dialog" aria-modal="true">
+            <header class="modal-header">
+                <h2 class="primary-header" id="modal-1-title">
+                    大会エントリー
+                </h2>
+                <a class="modal-close" aria-label="Close modal"><span class="material-icons"
+                                                                      data-micromodal-close>close</span></a>
+            </header>
+                            <main class="modal-content" id="modal-1-content">
+                    <div class="modal-content-header"><h3>エントリーできません</h3></div>
+                    <div class="modal-content-inner">
+                        <div class="modal-content-item entry-checklist">
+                            <div class="entry-checklist-desc">以下の内容をご確認ください。</div>
+                                                            <div
+                                    style="padding:1em;background: #f6f6f6;margin-bottom: 1em;font-weight: 700;">現在エントリーできません</div>
+                                <div></div>
+                                                        <div class="entry-checklist-desc">プロフィールを訂正しても反映されない場合は、このページを更新してください。</div>
+                        </div>
+                    </div>
+                </main>
+                    </div>
+    </div>
+</div>
+
+<div class="modal" id="modal-checkin" aria-hidden="false">
+    <div class="modal-overlay" tabindex="-1" data-micromodal-close>
+        <div class="modal-container" role="dialog" aria-modal="true">
+            <header class="modal-header">
+                <h2 class="primary-header" id="modal-1-title">
+                    チェックイン
+                </h2>
+                <a class="modal-close" aria-label="Close modal"><span class="material-icons"
+                                                                      data-micromodal-close>close</span></a>
+            </header>
+            <main class="modal-content" id="modal-1-content">
+                <div class="modal-content-header"><h3>チェックイン</h3></div>
+                <div class="modal-content-inner">
+                    <div class="modal-content-item entry-checkin">
+                        <div class="entry-checkin-desc">大会で使用するデッキコードを入力してください</div>
+                        <div class="entry-checkin-item">
+                            <label for="checklist_2" class="primary-header">デッキコード１</label>
+                            <input type="text" id="checklist_2">
+                        </div>
+                        <div class="entry-checkin-item">
+                            <label for="checklist_2" class="primary-header">デッキコード２</label>
+                            <input type="text" id="checklist_2">
+                        </div>
+                        <div class="entry-checkin-button">
+                            <a id="" type="submit" class="primary-button"><span>エントリーする</span></a>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="modal-history-deck" aria-hidden="false">
+    <div class="modal-overlay" tabindex="-1" data-micromodal-close>
+        <div class="modal-container" role="dialog" aria-modal="true">
+            <header class="modal-header">
+                <h2 class="primary-header" id="modal-1-title">
+                    履歴から登録
+                </h2>
+                <a class="modal-close" aria-label="Close modal"><span class="material-icons"
+                                                                      data-micromodal-close>close</span></a>
+            </header>
+            <main class="modal-content" id="modal-history-deck-content" style="min-height:30vh;padding:10px;">
+
+            </main>
+        </div>
+    </div>
+</div>
+</main>
+<section id="footerBanner">
+    <div class="section-inner">
+        <div class="footer-banner-wrapper">
+            <div class="footer-banner-item main">
+                <a href="https://shadowverse-portal.com/" target="_blank"><img src="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/images/footer_bnr_sv_portal.jpg?m=35" alt="shadowverseデッキ登録"></a>
+            </div>
+            <div class="footer-banner-item">
+                <a href="https://shadowverse.jp/" target="_blank"><img src="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/images/footer_bnr_sv_official.jpg?m=35" alt="SHADOW VERSE公式サイト"></a>
+            </div>
+            <div class="footer-banner-item">
+                <a href="https://discord.gg/mqGYNSF" target="_blank"><img src="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/images/footer_bnr_dc_rotation.jpg?m=35" alt="Discord ローテーション"></a>
+            </div>
+            <div class="footer-banner-item">
+                <a href="https://discord.gg/bBmrGJW" target="_blank"><img src="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/images/footer_bnr_dc_unlimited.jpg?m=35" alt="Discord アンリミテッド"></a>
+            </div>
+            <div class="footer-banner-item">
+                <a href="https://discord.gg/SEZmVSJ" target="_blank"><img src="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/images/footer_bnr_dc_2pick.jpg?m=35" alt="Discord 2Picks"></a>
+            </div>
+        </div>
+    </div>
+</section>
+<footer id="siteFooter">
+    <div class="footerbody" class="cf">
+        <div class="footerlogo">
+            <p class="logo"><a href="https://sv.j-cg.com"><img src="https://d2ix66na9gnh44.cloudfront.net/themes/sv/assets/images/footer_logo.png?m=35" alt=""></a></p>
+        </div>
+
+        <ul class="footerlink">
+            <li class="footer-link-item"><a href="https://www.jcg.co.jp/">運営会社</a></li>
+            <li class="footer-link-item"><a href="http://www.j-cg.com/policy">運営ポリシー</a></li>
+            <li class="footer-link-item"><a href="http://www.j-cg.com/anti-cheat-policy">JCGアンチチートポリシー</a></li>
+            <li class="footer-link-item"><a href="https://www.jcg.co.jp/privacy-policy/">プライバシーポリシー</a></li>
+        </ul>
+        <ul class="footerlink">
+            <li class="footer-link-item"><a href="https://sv.j-cg.com/storage/app/media/pdf/sponsor/JCG%20Shadowverse%20Open%20%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A1%A8%E8%A8%98.pdf?m=35">特定商取引法に基づく表記</a></li>
+            <li class="footer-link-item"><a href="https://help.j-cg.com/">HELP &#038; SUPPORT</a></li>
+            <li class="footer-link-item"><a href="http://www.j-cg.com/pressrelease">プレスリリース送付窓口</a></li>
+        </ul>
+        <p class="copy"><small><span class="iblock">© Cygames, Inc. </span><span class="iblock">© JCG All Rights Reserved.</span></small></p>
+    </div>
+</footer>
+</body>
+<script src="/modules/system/assets/js/framework.combined-min.js"></script>
+<link rel="stylesheet" property="stylesheet" href="/modules/system/assets/css/framework.extras-min.css">
+<script src="https://d2ix66na9gnh44.cloudfront.net/ngx/bracket/inline.bundle.js?m=35"></script>
+<script src="https://d2ix66na9gnh44.cloudfront.net/ngx/bracket/polyfills.bundle.js?m=35"></script>
+<script src="https://d2ix66na9gnh44.cloudfront.net/ngx/bracket/main.bundle.js?m=35"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-19523610-9"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-19523610-9');
+</script>
+
+</html>
