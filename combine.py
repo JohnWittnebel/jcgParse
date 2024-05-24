@@ -137,10 +137,10 @@ def matchup(iMatrix, A, B):
   for i in range(len(winrates)):
     print (winrates[i][0] + " = " + str(round(float(winrates[i][1]),4)))
 
-
 #initCombMat(comMatrix)
 #comMatrix = collapseRows(comMatrix, -1)
-#matchup(comMatrix,[1,3,8],[8,0])
+#printInfo(comMatrix)
+#matchup(comMatrix,[10,12,7],[2,0])
 
 #initCombMat(comMatrix)
 #banWrapper()

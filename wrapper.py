@@ -49,8 +49,8 @@ elif (uinput == "b"):
     printInfo(comMatrix)
 elif (uinput == "a"):
     print(mostRecent[0][0][0])
-    #jcgPull(mostRecent[0][0][0])
-    jcgPull("k3HeLraSI0ds")
+    jcgPull(mostRecent[0][0][0])
+    #jcgPull("x1bUtShrUJa5")
     main()
 else:
     print "y/n only"

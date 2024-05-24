@@ -123,7 +123,7 @@
                         <li class="nav-item"><a href="https://sv.j-cg.com/news/2303">個人協賛のご案内</a></li>
                         <li class="nav-item"><a href="https://help.j-cg.com/">HELP & SUPPORT</a></li>
                         <li class="nav-item"><a
-                                href="https://docs.google.com/forms/d/e/1FAIpQLSfsHMrqmd6g70-h0kkIxEbWpb_Uv639rF0M1kMoy_9zJE0HJw/viewform"
+                                href="https://forms.gle/Z28BFdEsDuvTZejJ6"
                                 target="_blank">ご意見・ご要望フォーム</a></li>
                                             </ul>
                     <div class="nav-button-wrapper">
@@ -143,7 +143,8 @@
 </header>
 </div>
 
-</header><main>
+</header>
+<main>
     
 <div class="page schedule-page list-page">
     <div class="page-item page-header">
@@ -202,7 +203,26 @@
             <div class="content-inner">
                                     <div class="list">
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/k3HeLraSI0ds">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/WR2Lmw0ctUMM">
+                                    <div class="schedule-icon">
+                                        <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
+                                    </div>
+                                    <div class="schedule-detail">
+                                        <div
+                                            class="schedule-status schedule-status--exit"
+                                            style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
+                                        <div class="schedule-date">2024.03.17
+                                            <span>[sun]</span> 16:00
+                                        </div>
+                                        <div class="schedule-title">JCG Shadowverse Open OFFLINE AXIZ CUP プレーオフ</div>
+                                                                                    <div class="schedule-entry-count">エントリー数 <span
+                                                    class='entry-count'>8/16</span>
+                                            </div>
+                                                                            </div>
+                                </a>
+                            </div>
+                                                    <div class="list-item schedule-list-item container-accent">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/f0JbYCYHnPEo">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
                                     </div>
@@ -210,18 +230,56 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.31
+                                        <div class="schedule-date">2024.03.17
+                                            <span>[sun]</span> 10:40
+                                        </div>
+                                        <div class="schedule-title">【オフライン大会】JCG Shadowverse Open OFFLINE AXIZ CUP 予選大会</div>
+                                                                                    <div class="schedule-entry-count">エントリー数 <span
+                                                    class='entry-count'>60/64</span>
+                                            </div>
+                                                                            </div>
+                                </a>
+                            </div>
+                                                    <div class="list-item schedule-list-item container-accent">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/dCCPLAJavuTT">
+                                    <div class="schedule-icon">
+                                        <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
+                                    </div>
+                                    <div class="schedule-detail">
+                                        <div
+                                            class="schedule-status schedule-status--exit"
+                                            style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
+                                        <div class="schedule-date">2024.03.15
+                                            <span>[fri]</span> 21:50
+                                        </div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.41 3月15日 ローテーション大会 決勝トーナメント</div>
+                                                                                    <div class="schedule-entry-count">エントリー数 <span
+                                                    class='entry-count'>32/16</span>
+                                            </div>
+                                                                            </div>
+                                </a>
+                            </div>
+                                                    <div class="list-item schedule-list-item container-accent">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/SbdCLXQLbXah">
+                                    <div class="schedule-icon">
+                                        <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
+                                    </div>
+                                    <div class="schedule-detail">
+                                        <div
+                                            class="schedule-status schedule-status--exit"
+                                            style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
+                                        <div class="schedule-date">2024.03.15
                                             <span>[fri]</span> 18:20
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 25th Season Vol.2 3月31日 ローテーション大会 グループ予選</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.41 3月15日 ローテーション大会 グループ予選</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>517/256</span>
+                                                    class='entry-count'>206/256</span>
                                             </div>
                                                                             </div>
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/RQ1OsmbEMBA5">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/D3R4NqgcbDT9">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
                                     </div>
@@ -229,10 +287,10 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.29
+                                        <div class="schedule-date">2024.03.13
                                             <span>[wed]</span> 21:50
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 25th Season Vol.1 3月29日 ローテーション大会  決勝トーナメント</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.40 3月13日 ローテーション大会  決勝トーナメント</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
                                                     class='entry-count'>32/16</span>
                                             </div>
@@ -240,7 +298,7 @@
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/TY1QBwCyVHjc">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/oJZAisuSsG9l">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
                                     </div>
@@ -248,18 +306,18 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.29
+                                        <div class="schedule-date">2024.03.13
                                             <span>[wed]</span> 18:20
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 25th Season Vol.1 3月29日 ローテーション大会 グループ予選</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.40 3月13日 ローテーション大会 グループ予選</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>579/256</span>
+                                                    class='entry-count'>229/256</span>
                                             </div>
                                                                             </div>
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/1HIHbX4lf5C7">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/1UU9FA8DsGp2">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
                                     </div>
@@ -267,10 +325,10 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.26
+                                        <div class="schedule-date">2024.03.10
                                             <span>[sun]</span> 19:50
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.43 3月26日 ローテーション大会  決勝トーナメント</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.39 3月10日 ローテーション大会  決勝トーナメント</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
                                                     class='entry-count'>32/16</span>
                                             </div>
@@ -278,7 +336,7 @@
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/pdC3RtZyFNgn">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/sTjgoCFTP2qm">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
                                     </div>
@@ -286,18 +344,18 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.26
+                                        <div class="schedule-date">2024.03.10
                                             <span>[sun]</span> 16:20
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.43 3月26日 ローテーション大会 グループ予選</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.39 3月10日 ローテーション大会 グループ予選</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>343/256</span>
+                                                    class='entry-count'>259/256</span>
                                             </div>
                                                                             </div>
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/TTokEMLoTE2j">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/pltbnjKX02DS">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
                                     </div>
@@ -305,18 +363,18 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.25
+                                        <div class="schedule-date">2024.03.09
                                             <span>[sat]</span> 19:50
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.42 3月25日 ローテーション大会  決勝トーナメント</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.38 3月9日 ローテーション大会 決勝トーナメント</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>32/16</span>
+                                                    class='entry-count'>31/16</span>
                                             </div>
                                                                             </div>
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/HyWjHxJ4WFqR">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/o7ML0X42K7JO">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
                                     </div>
@@ -324,18 +382,18 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.25
+                                        <div class="schedule-date">2024.03.09
                                             <span>[sat]</span> 16:20
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.42 3月25日 ローテーション大会 グループ予選</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.38 3月9日 ローテーション大会 グループ予選</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>293/256</span>
+                                                    class='entry-count'>251/256</span>
                                             </div>
                                                                             </div>
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/nQ0EUanHiUky">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/EzKJCJKy29RB">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
                                     </div>
@@ -343,10 +401,10 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.22
+                                        <div class="schedule-date">2024.03.06
                                             <span>[wed]</span> 21:50
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.40 3月22日 ローテーション大会  決勝トーナメント</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.36 3月6日 ローテーション大会  決勝トーナメント</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
                                                     class='entry-count'>32/16</span>
                                             </div>
@@ -354,7 +412,7 @@
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/Idvb76zgrEDD">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/ei4g5QVq5VnK">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
                                     </div>
@@ -362,18 +420,18 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.22
+                                        <div class="schedule-date">2024.03.06
                                             <span>[wed]</span> 18:20
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.40 3月22日 ローテーション大会 グループ予選</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.36 3月6日 ローテーション大会 グループ予選</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>286/256</span>
+                                                    class='entry-count'>243/256</span>
                                             </div>
                                                                             </div>
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/YhvmDf3yj6JO">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/ytdKuvF7cyM3">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
                                     </div>
@@ -381,10 +439,10 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.19
+                                        <div class="schedule-date">2024.03.03
                                             <span>[sun]</span> 19:50
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.39 3月19日 ローテーション大会  決勝トーナメント</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.35 3月3日 ローテーション大会  決勝トーナメント</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
                                                     class='entry-count'>32/16</span>
                                             </div>
@@ -392,7 +450,7 @@
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/UizCD3VEzosh">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/tLWVyxF0o11y">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
                                     </div>
@@ -400,18 +458,18 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.19
+                                        <div class="schedule-date">2024.03.03
                                             <span>[sun]</span> 16:20
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.39 3月19日 ローテーション大会 グループ予選</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.35 3月3日 ローテーション大会 グループ予選</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>366/256</span>
+                                                    class='entry-count'>267/256</span>
                                             </div>
                                                                             </div>
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/Q58hfk0hbKRR">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/1SixGyM7qmsh">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
                                     </div>
@@ -419,10 +477,10 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.17
+                                        <div class="schedule-date">2024.03.01
                                             <span>[fri]</span> 21:50
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.37 3月17日 ローテーション大会 決勝トーナメント</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.33 3月1日 ローテーション大会 決勝トーナメント</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
                                                     class='entry-count'>32/16</span>
                                             </div>
@@ -430,7 +488,7 @@
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/YltGsaBdFmF9">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/XK1zEQdZtN79">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
                                     </div>
@@ -438,18 +496,18 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.17
+                                        <div class="schedule-date">2024.03.01
                                             <span>[fri]</span> 18:20
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.37 3月17日 ローテーション大会 グループ予選</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.33 3月1日 ローテーション大会 グループ予選</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>312/256</span>
+                                                    class='entry-count'>213/256</span>
                                             </div>
                                                                             </div>
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/Q983Fmv0YyIQ">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/dB4SQVw4vqVX">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
                                     </div>
@@ -457,10 +515,10 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.15
+                                        <div class="schedule-date">2024.02.28
                                             <span>[wed]</span> 21:50
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.36 3月15日 ローテーション大会  決勝トーナメント</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.32 2月28日 ローテーション大会  決勝トーナメント</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
                                                     class='entry-count'>32/16</span>
                                             </div>
@@ -468,7 +526,7 @@
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/g2DqIARN0ZPS">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/kc4cvBoW960J">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
                                     </div>
@@ -476,18 +534,18 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.15
+                                        <div class="schedule-date">2024.02.28
                                             <span>[wed]</span> 18:20
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.36 3月15日 ローテーション大会 グループ予選</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.32 2月28日 ローテーション大会 グループ予選</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>347/256</span>
+                                                    class='entry-count'>242/256</span>
                                             </div>
                                                                             </div>
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/VTTpe7QUHuSd">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/o0LIkbRorMmv">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
                                     </div>
@@ -495,10 +553,10 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.12
+                                        <div class="schedule-date">2024.02.25
                                             <span>[sun]</span> 19:50
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.35 3月12日 ローテーション大会  決勝トーナメント</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.31 2月25日 ローテーション大会  決勝トーナメント</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
                                                     class='entry-count'>32/16</span>
                                             </div>
@@ -506,7 +564,7 @@
                                 </a>
                             </div>
                                                     <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/7GmuNSFOCW4q">
+                                <a class="schedule-link" href="https://sv.j-cg.com/competition/SAkl1AMcDUgu">
                                     <div class="schedule-icon">
                                         <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
                                     </div>
@@ -514,69 +572,12 @@
                                         <div
                                             class="schedule-status schedule-status--exit"
                                             style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.12
+                                        <div class="schedule-date">2024.02.25
                                             <span>[sun]</span> 16:20
                                         </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.35 3月12日 ローテーション大会 グループ予選</div>
+                                        <div class="schedule-title">JCG Shadowverse Open 28th Season Vol.31 2月25日 ローテーション大会 グループ予選</div>
                                                                                     <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>406/256</span>
-                                            </div>
-                                                                            </div>
-                                </a>
-                            </div>
-                                                    <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/D77vdbKay1Ms">
-                                    <div class="schedule-icon">
-                                        <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-detail">
-                                        <div
-                                            class="schedule-status schedule-status--exit"
-                                            style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.05
-                                            <span>[sun]</span> 19:50
-                                        </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.33 3月5日 ローテーション大会  決勝トーナメント</div>
-                                                                                    <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>32/16</span>
-                                            </div>
-                                                                            </div>
-                                </a>
-                            </div>
-                                                    <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/lvZCBspFKHo5">
-                                    <div class="schedule-icon">
-                                        <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-detail">
-                                        <div
-                                            class="schedule-status schedule-status--exit"
-                                            style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.05
-                                            <span>[sun]</span> 16:20
-                                        </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.33 3月5日 ローテーション大会 グループ予選</div>
-                                                                                    <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>383/256</span>
-                                            </div>
-                                                                            </div>
-                                </a>
-                            </div>
-                                                    <div class="list-item schedule-list-item container-accent">
-                                <a class="schedule-link" href="https://sv.j-cg.com/competition/3ZVxAEqo1JEI">
-                                    <div class="schedule-icon">
-                                        <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-detail">
-                                        <div
-                                            class="schedule-status schedule-status--exit"
-                                            style="color:#7f8c8d;border:1px solid #7f8c8d">終了</div>
-                                        <div class="schedule-date">2023.03.03
-                                            <span>[fri]</span> 21:50
-                                        </div>
-                                        <div class="schedule-title">JCG Shadowverse Open 24th Season Vol.31 3月3日 ローテーション大会 決勝トーナメント</div>
-                                                                                    <div class="schedule-entry-count">エントリー数 <span
-                                                    class='entry-count'>32/16</span>
+                                                    class='entry-count'>242/256</span>
                                             </div>
                                                                             </div>
                                 </a>
@@ -608,8 +609,8 @@
                                             
                 
                 
-                                                                                        <li><a href="http://sv.j-cg.com/past-schedule/rotation?page=67">67</a></li>
-                                                                                                <li><a href="http://sv.j-cg.com/past-schedule/rotation?page=68">68</a></li>
+                                                                                        <li><a href="http://sv.j-cg.com/past-schedule/rotation?page=80">80</a></li>
+                                                                                                <li><a href="http://sv.j-cg.com/past-schedule/rotation?page=81">81</a></li>
                                                                         
             
                             <li>
@@ -669,14 +670,12 @@
 <script src="/modules/system/assets/js/framework.combined-min.js"></script>
 <link rel="stylesheet" property="stylesheet" href="/modules/system/assets/css/framework.extras-min.css">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-19523610-9"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-19523610-9');
-</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MRP2FBR');</script>
+<!-- End Google Tag Manager -->
 
 </html>

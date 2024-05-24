@@ -1,33 +1,23 @@
 
 
 archs = [
-        ["Filly Forest", [".1.", "7eqRS"]],
-        ["Commander Sword", [".2.", "7TmR6.7TmR6"]],
-        ["Mars Sword", [".2.", "7f5XC"]],
-        ["SB Rune", [".3.", "7bn7S"]],
-        ["Sephie Rune", [".3.", "7bn7I"]],
-        ["Chess Rune", [".3.", "7Xy-I"]],
-        ["Mysteria Rune", [".3.", "7U6PC"]],
-        ["Disco Dragon", [".4.", "7YLP6"]],
-        ["Armed Dragon", [".4.","7YLOo","7UXFy.7UXFy"]],
-        ["Buff Dragon", [".4.","7fzgy"]],
-        ["LW Shadow", [".5.","7cVW2"]],
-        ["BR Shadow", [".5.", "7cXyc"]],
-        ["Wrath Blood", [".6.","7cwMo"]],
-        ["Venge Blood", [".6.", "7gfdI"]],
-        ["Elana Haven", [".7.", "7h6wS"]],
-        ["Enhance Portal", [".8.", "7delY.7delY"]],
+        ["Forest", [".1."]],
+        ["Sword", [".2."]],
+        ["Rune", [".3."]],
+        ["Dragon", [".4."]],
+        ["Shadow", [".5."]],
+        ["Blood", [".6."]],
+        ["Haven", [".7."]],
+        ["Portal", [".8."]],
         ["Other", [""]]
         ]
 
-archs3 = [
-        ["Loot Sword 3 opp", [".2.", "7bOio.7bOio.7bOio", "gl-oS.gl-oS.gl-oS"]],
-        ["Loot Sword 2 opp", [".2.", "7bOio.7bOio.7bOio", "gl-oS.gl-oS"]],
-        ["Loot Sword 1 opp", [".2.", "7bOio.7bOio.7bOio", "gl-oS"]],
-        ["Loot Sword 0 opp", [".2.", "7bOio.7bOio.7bOio"]],
-        ["SB Rune", [".3.", "7bn7S"]],
-        ["Wrath Blood", [".6.","7cwMo"]],
-        ["Enhance Portal", [".8.", "7delY.7delY"]],
+archs2 = [
+        ["Wrath 3", [".6.", "7cwMo.7cwMo", "7VFeY.7VFeY.7VFeY"]],
+        ["Wrath 2", [".6.", "7cwMo.7cwMo", "7VFeY.7VFeY"]],
+        ["Wrath 1", [".6.", "7cwMo.7cwMo", "7VFeY"]],
+        ["Wrath 0", [".6.", "7cwMo.7cwMo"]],
+        ["Disco Dragon", [".4.", "7YLP6"]],
         ["Other", [""]]
         ]
 
