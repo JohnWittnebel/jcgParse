@@ -39,8 +39,8 @@ def getarch(hashval):
         if (correct == 1):
             #####
             # For finding specific archetypes
-            #if (i == numArchs - 3):
-            #    print hashval
+            if (i == numArchs - 5):
+                print hashval
             #
             #####
             return i

@@ -25,6 +25,7 @@ AzvaldtMini = datetime.datetime(2023,2,20)
 Academy = datetime.datetime(2023,3,27)
 AcademyNerf = datetime.datetime(2023,3,30)
 AcademyBuff = datetime.datetime(2023,4,23)
+HeroesMini = datetime.datetime(2024,5,23)
 
 # A list of the dates that each patch went live along with a descriptive name
 dates = [[SRinitial, "Steel Rebellion Initial"],
@@ -41,6 +42,7 @@ dates = [[SRinitial, "Steel Rebellion Initial"],
         [AzvaldtMini, "Azvaldt Mini"],
         [Academy, "Academy"],
         [AcademyNerf, "Academy Nerf"],
-        [AcademyBuff, "Academy Buff"]
+        [AcademyBuff, "Academy Buff"],
+        [HeroesMini, "Heroes mini"]
         ]
 

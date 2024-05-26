@@ -1,14 +1,20 @@
 
 
 archs = [
-        ["Forest", [".1."]],
-        ["Sword", [".2."]],
-        ["Rune", [".3."]],
-        ["Dragon", [".4."]],
-        ["Shadow", [".5."]],
-        ["Blood", [".6."]],
-        ["Haven", [".7."]],
-        ["Portal", [".8."]],
+        ["Ladica Forest", [".1.", "7tgtQ.7tgtQ"]],
+        ["NTR Sword", [".2.", "7uTPy.7uTPy.7uTPy"]],
+        ["Machina Rune", [".3.", "7urqS.7urqS.7urqS"]],
+        ["Maiser Rune", [".3.", "7urqc.7urqc.7urqc"]],
+        ["Big Dragon", [".4.", "7rLDI.7rLDI"]], 
+        ["NTR Dragon", [".4.", "7vEEy.7vEEy.7vEEy"]],
+        ["LW Shadow", [".5.", "7tbGC.7tbGC"]],
+        ["Machina Shadow", [".5.", "7vXmo.7vXmo"]],
+        ["Wrath Blood", [".6.", "7v_3o.7v_3o.7v_3o"]],
+        ["Machina Blood", [".6.", "7kYf6"]],
+        ["U10 Blood", [".6.", "7sAwy.7sAwy"]],
+        ["Amulet Haven", [".7.", "7wNUS.7wNUS.7wNUS"]],
+        ["Heal Haven", [".7.", "7wNUm"]],
+        ["Artifact Portal", [".8.", "7wluo.7wluo"]],
         ["Other", [""]]
         ]
 

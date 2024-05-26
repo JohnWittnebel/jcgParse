@@ -106,8 +106,8 @@ def getMatchEntry():
     player2 = helper[index1+1:index2]
 
     #making non-english characters work with playerTable
-    player1=player1.decode('utf-8')
-    player2=player2.decode('utf-8')
+    player1 = player1.decode('utf-8')
+    player2 = player2.decode('utf-8')
 
     if (isWinnerTwo < 0):
         return [player1, player2, 1]
