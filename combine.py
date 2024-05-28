@@ -140,7 +140,7 @@ def matchup(iMatrix, A, B):
 #initCombMat(comMatrix)
 #comMatrix = collapseRows(comMatrix, -1)
 #printInfo(comMatrix)
-#matchup(comMatrix,[10,12,7],[2,0])
+#matchup(comMatrix,[6,10,13],[11,13])
 
 #initCombMat(comMatrix)
 #banWrapper()
