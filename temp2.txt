@@ -2,17 +2,17 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>JCG Shadowverse Open 29th Season Vol.33 5月26日 ローテーション大会 グループ予選 |  JCG Shadowverse Open</title>
-    <meta name="title" content="JCG Shadowverse Open 29th Season Vol.33 5月26日 ローテーション大会 グループ予選 |  JCG Shadowverse Open">
+    <title>JCG Shadowverse Open 29th Season Vol.30 5月22日 ローテーション大会  決勝トーナメント |  JCG Shadowverse Open</title>
+    <meta name="title" content="JCG Shadowverse Open 29th Season Vol.30 5月22日 ローテーション大会  決勝トーナメント |  JCG Shadowverse Open">
     <meta name="author" content="JCG Co., Ltd.">
     <meta name="description" content="JCG Shadowverse Openは、JCGが運営するCygames社提供の本格スマホカードバトル「Shadowverse」の大会の総称です。
 毎週水金土日祝日に定期的に開催されるローテーション大会・アンリミテッド大会・2Pick大会と、不定期に開催される特別大会があります。">
     <meta property="og:title"
-          content="JCG Shadowverse Open 29th Season Vol.33 5月26日 ローテーション大会 グループ予選 |  JCG Shadowverse Open">
+          content="JCG Shadowverse Open 29th Season Vol.30 5月22日 ローテーション大会  決勝トーナメント |  JCG Shadowverse Open">
     <meta property="og:type" content="Game">
     <meta property="og:url" content="https://sv.j-cg.com/">
     <meta property="og:site_name"
-          content="JCG Shadowverse Open 29th Season Vol.33 5月26日 ローテーション大会 グループ予選 |  JCG Shadowverse Open">
+          content="JCG Shadowverse Open 29th Season Vol.30 5月22日 ローテーション大会  決勝トーナメント |  JCG Shadowverse Open">
     <meta property="og:description"
           content="JCG Shadowverse Openは、JCGが運営するCygames社提供の本格スマホカードバトル「Shadowverse」の大会の総称です。
 毎週水金土日祝日に定期的に開催されるローテーション大会・アンリミテッド大会・2Pick大会と、不定期に開催される特別大会があります。">
@@ -161,24 +161,24 @@
     }
 </style>
 <div class="page competition-page">
-        <div class="page-item page-header">
+    <div class="page-item page-header">
     <div class="page-header-inner competition-header">
         <div class="competition-item">
             <div class="competition-item-inner">
                 <div class="competition-icon">
-                    <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/732/591/6017325912a16638845016.jpg" alt="">
+                    <img src="https://d2ix66na9gnh44.cloudfront.net/storage/app/uploads/public/601/733/067/6017330674cee572017544.jpg" alt="">
                 </div>
                 <div class="competition-detail">
                     <span
                         style="color:#7f8c8d;border-color:#7f8c8d"
                         class="competition-status competition-status-EXIT">終了</span>
-                    <div class="competition-date">05.26
-                        <span>[Sun]</span> 16:20
+                    <div class="competition-date">05.22
+                        <span>[Wed]</span> 21:50
                     </div>
-                    <div class="competition-title">JCG Shadowverse Open 29th Season Vol.33 5月26日 ローテーション大会 グループ予選
+                    <div class="competition-title">JCG Shadowverse Open 29th Season Vol.30 5月22日 ローテーション大会  決勝トーナメント
                                                                     </div>
                                             <div class="competition-entry-count">エントリー数 <span
-                                class='entry-count'>190/256</span>
+                                class='entry-count'>32/16</span>
                         </div>
                                     </div>
             </div>
@@ -202,16 +202,16 @@
 <div class="page-item page-tab">
     <ul class="page-item-inner tab competition-tab">
         <li class="tab-item ">
-            <a href="https://sv.j-cg.com/competition/pQJrYArpi586/home">大会概要</a>
+            <a href="https://sv.j-cg.com/competition/mEnLGmqlk1Em/home">大会概要</a>
         </li>
                     <li class="tab-item ">
-                <a href="https://sv.j-cg.com/competition/pQJrYArpi586/entries">参加者一覧</a>
+                <a href="https://sv.j-cg.com/competition/mEnLGmqlk1Em/entries">参加者一覧</a>
             </li>
                             <li class="tab-item active">
-                <a href="https://sv.j-cg.com/competition/pQJrYArpi586/bracket">対戦表</a>
+                <a href="https://sv.j-cg.com/competition/mEnLGmqlk1Em/bracket">対戦表</a>
             </li>
                             <li class="tab-item ">
-                <a href="https://sv.j-cg.com/competition/pQJrYArpi586/results">結果</a>
+                <a href="https://sv.j-cg.com/competition/mEnLGmqlk1Em/results">結果</a>
             </li>
                 <li class="tab-item">
             <a href="https://discord.gg/mqGYNSF" target="_blank">大会Discord <span
@@ -224,7 +224,7 @@
     <span class="page-content-bg-overlay-tri left top"></span>
     <div class="content page-item-inner">
         <div class="content-inner">        <script>
-        _INLINE_BRACKET_DATA = {"apiUrl":"https:\/\/sv.j-cg.com\/api","bracket":{"third_place":false,"id":6424,"type":"TOUR","sioName":"a3296f40-1b2d-11ef-9e76-e1729c4d71ca"},"groups":[{"id":147647,"code":"1","name":"\u30b0\u30eb\u30fc\u30d701","rounds":[],"sioName":"a3175ac0-1b2d-11ef-9710-956bad29746b"},{"id":147648,"code":"2","name":"\u30b0\u30eb\u30fc\u30d702","rounds":[],"sioName":"a3187920-1b2d-11ef-986b-11372f2ae94e"},{"id":147649,"code":"3","name":"\u30b0\u30eb\u30fc\u30d703","rounds":[],"sioName":"a31971e0-1b2d-11ef-983a-fb12783cd4cf"},{"id":147650,"code":"4","name":"\u30b0\u30eb\u30fc\u30d704","rounds":[],"sioName":"a31a7690-1b2d-11ef-aa3a-1d0463143e8d"},{"id":147651,"code":"5","name":"\u30b0\u30eb\u30fc\u30d705","rounds":[],"sioName":"a31bb520-1b2d-11ef-a2e8-f1d5b3ab95dd"},{"id":147652,"code":"6","name":"\u30b0\u30eb\u30fc\u30d706","rounds":[],"sioName":"a31cd6e0-1b2d-11ef-8144-cb271c0aefda"},{"id":147653,"code":"7","name":"\u30b0\u30eb\u30fc\u30d707","rounds":[],"sioName":"a31df290-1b2d-11ef-a0d7-89acccc8c691"},{"id":147654,"code":"8","name":"\u30b0\u30eb\u30fc\u30d708","rounds":[],"sioName":"a31f0e50-1b2d-11ef-bfd6-c9dcd0ec4483"},{"id":147655,"code":"9","name":"\u30b0\u30eb\u30fc\u30d709","rounds":[],"sioName":"a3200090-1b2d-11ef-bd4a-d55591beb425"},{"id":147656,"code":"10","name":"\u30b0\u30eb\u30fc\u30d710","rounds":[],"sioName":"a3215d40-1b2d-11ef-a164-73e8f17e5396"},{"id":147657,"code":"11","name":"\u30b0\u30eb\u30fc\u30d711","rounds":[],"sioName":"a3225b80-1b2d-11ef-9673-0169451b98af"},{"id":147658,"code":"12","name":"\u30b0\u30eb\u30fc\u30d712","rounds":[],"sioName":"a32336c0-1b2d-11ef-b6d6-f3ec4ec06ed6"},{"id":147659,"code":"13","name":"\u30b0\u30eb\u30fc\u30d713","rounds":[],"sioName":"a323fdf0-1b2d-11ef-960c-b9eaf443ddf9"},{"id":147660,"code":"14","name":"\u30b0\u30eb\u30fc\u30d714","rounds":[],"sioName":"a324fbe0-1b2d-11ef-8ca6-cf0c44819a66"},{"id":147661,"code":"15","name":"\u30b0\u30eb\u30fc\u30d715","rounds":[],"sioName":"a325f1c0-1b2d-11ef-887d-397e44421b02"},{"id":147662,"code":"16","name":"\u30b0\u30eb\u30fc\u30d716","rounds":[],"sioName":"a326ec80-1b2d-11ef-9dca-b7e644d7bb50"}],"myUsername":"","myTeamId":0,"myGroupCode":"","isa":false,"settings":{"competitionName":"JCG Shadowverse Open 29th Season Vol.33 5\u670826\u65e5 \u30ed\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3\u5927\u4f1a \u30b0\u30eb\u30fc\u30d7\u4e88\u9078","appName":"october_sv_live","baseUrl":"https:\/\/sv.j-cg.com\/","websockUrl":"https:\/\/sv.j-cg.com:3001\/","useCompassBattleScore":false,"useMatchRoom":true,"useScore":false,"useScreenShot":false,"bracketGroupsVisibility":true,"labelScore":"\u30b9\u30b3\u30a2","useMapkick":false,"participantType":"SOLO","matchDescription":"<div class=\"cgStyleCMS\">\n<p>\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u4e0a\u306e\u4e0a\u5074\u3001\u3082\u3057\u304f\u306f\u5bfe\u6226\u30da\u30fc\u30b8\u306e\u5de6\u5074\u304c\u30db\u30b9\u30c8\u3068\u306a\u308a\u3001\u30eb\u30fc\u30e0\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002<\/p>\n<ul>\n<li>\u30db\u30b9\u30c8\u306f\u30eb\u30fc\u30e0\u3092\u4f5c\u6210\u3057\u305f\u3089\u3001\u672c\u30da\u30fc\u30b8\u4e0a\u90e8\u306e\u5165\u529b\u30c1\u30e3\u30c3\u30c8\u3067\u5bfe\u6226\u76f8\u624b\u306b\u30eb\u30fc\u30e0ID\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<li>\u30eb\u30fc\u30eb\u4e0a\u306e\u6642\u9593\u5185\u306b\u30eb\u30fc\u30e0ID\u306e\u8a18\u8f09\u304c\u306a\u304b\u3063\u305f\u3089\u3001Discord\u306e\u30c1\u30e3\u30c3\u30c8\u3067\u904b\u55b6\u306b\u5831\u544a\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<li>Discord\u4e0a\u3067\u9023\u7d61\u304c\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u4e0d\u6226\u6557\u3068\u3057\u3066\u6271\u3046\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002<\/li>\n<li>\u5927\u4f1a\u4e2d\u30c8\u30e9\u30d6\u30eb\u304c\u767a\u751f\u3057\u305f\u5834\u5408\u3001\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8\u3092\u63d0\u793a\u3059\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002<\/li>\n<li>\u30c8\u30e9\u30d6\u30eb\u767a\u751f\u6642\u306b\u5bfe\u6226\u76f8\u624b\u540d\u304c\u5206\u304b\u308b\u5f62\u3067\u53d6\u5f97\u3057\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<\/ul>\n<\/div>","useSegment":0,"useGroupNameOnSelection":false,"segmentDesc":null,"segmentFinalChar":null,"discordChannels":[{"groupCode":null,"blockId":1,"name":"#\u30b0\u30eb\u30fc\u30d71","url":"https:\/\/discord.gg\/qgvHMjx"},{"groupCode":null,"blockId":2,"name":"#\u30b0\u30eb\u30fc\u30d72","url":"https:\/\/discord.gg\/9FsxHfW"},{"groupCode":null,"blockId":3,"name":"#\u30b0\u30eb\u30fc\u30d73","url":"https:\/\/discord.gg\/k5Frhwt"},{"groupCode":null,"blockId":4,"name":"#\u30b0\u30eb\u30fc\u30d74","url":"https:\/\/discord.gg\/Q4F8rmy"},{"groupCode":null,"blockId":5,"name":"#\u30b0\u30eb\u30fc\u30d75","url":"https:\/\/discord.gg\/39S7cVd"},{"groupCode":null,"blockId":6,"name":"#\u30b0\u30eb\u30fc\u30d76","url":"https:\/\/discord.gg\/ZXaegwN"},{"groupCode":null,"blockId":7,"name":"#\u30b0\u30eb\u30fc\u30d77","url":"https:\/\/discord.gg\/jvw8JMK"},{"groupCode":null,"blockId":8,"name":"#\u30b0\u30eb\u30fc\u30d78","url":"https:\/\/discord.gg\/NzcPkV4"},{"groupCode":null,"blockId":9,"name":"#\u30b0\u30eb\u30fc\u30d79","url":"https:\/\/discord.gg\/Qax93kh"},{"groupCode":null,"blockId":10,"name":"#\u30b0\u30eb\u30fc\u30d710","url":"https:\/\/discord.gg\/nMWtfR7"},{"groupCode":null,"blockId":11,"name":"#\u30b0\u30eb\u30fc\u30d711","url":"https:\/\/discord.gg\/n5fRWdN"},{"groupCode":null,"blockId":12,"name":"#\u30b0\u30eb\u30fc\u30d712","url":"https:\/\/discord.gg\/vEnhH3x"},{"groupCode":null,"blockId":13,"name":"#\u30b0\u30eb\u30fc\u30d713","url":"https:\/\/discord.gg\/j4TaU5Q"},{"groupCode":null,"blockId":14,"name":"#\u30b0\u30eb\u30fc\u30d714","url":"https:\/\/discord.gg\/yK88svp"},{"groupCode":null,"blockId":15,"name":"#\u30b0\u30eb\u30fc\u30d715","url":"https:\/\/discord.gg\/nhWyARV"},{"groupCode":null,"blockId":16,"name":"#\u30b0\u30eb\u30fc\u30d716","url":"https:\/\/discord.gg\/ZvyK8ut"}],"defaultDiscordChannel":{"name":"#general","url":null},"labelGameId":"Shadowverse\u5185 \u30b2\u30fc\u30e0ID","csrfToken":"hWNhxRcwqXPwjD0oLdxkys0NnQDfDhctH8N9bkWt","competitionFinished":null,"needDiscordDeclaration":false,"individualMatch":false,"matchFormat":"general","svClans":[{"id":1,"name":"\u30a8\u30eb\u30d5","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/1.png"},{"id":2,"name":"\u30ed\u30a4\u30e4\u30eb","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/2.png"},{"id":3,"name":"\u30a6\u30a3\u30c3\u30c1","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/3.png"},{"id":4,"name":"\u30c9\u30e9\u30b4\u30f3","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/4.png"},{"id":5,"name":"\u30cd\u30af\u30ed\u30de\u30f3\u30b5\u30fc","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/5.png"},{"id":6,"name":"\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/6.png"},{"id":7,"name":"\u30d3\u30b7\u30e7\u30c3\u30d7","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/7.png"},{"id":8,"name":"\u30cd\u30e1\u30b7\u30b9","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/8.png"}],"renderer":""}}
+        _INLINE_BRACKET_DATA = {"apiUrl":"https:\/\/sv.j-cg.com\/api","bracket":{"third_place":false,"id":6419,"type":"TOUR","sioName":"bd15f5c0-1838-11ef-9ce5-8b5eb5471065"},"groups":[{"id":147612,"code":"1","name":"\u30b0\u30eb\u30fc\u30d701","rounds":[],"sioName":"bd134a90-1838-11ef-ad1e-cb6a4cdc0777"}],"myUsername":"","myTeamId":0,"myGroupCode":"","isa":false,"settings":{"competitionName":"JCG Shadowverse Open 29th Season Vol.30 5\u670822\u65e5 \u30ed\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3\u5927\u4f1a  \u6c7a\u52dd\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8","appName":"october_sv_live","baseUrl":"https:\/\/sv.j-cg.com\/","websockUrl":"https:\/\/sv.j-cg.com:3001\/","useCompassBattleScore":false,"useMatchRoom":true,"useScore":false,"useScreenShot":false,"bracketGroupsVisibility":true,"labelScore":"\u30b9\u30b3\u30a2","useMapkick":false,"participantType":"SOLO","matchDescription":"<div class=\"cgStyleCMS\">\n<p>\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u4e0a\u306e\u4e0a\u5074\u3001\u3082\u3057\u304f\u306f\u5bfe\u6226\u30da\u30fc\u30b8\u306e\u5de6\u5074\u304c\u30db\u30b9\u30c8\u3068\u306a\u308a\u3001\u30eb\u30fc\u30e0\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002<\/p>\n<ul>\n<li>\u30db\u30b9\u30c8\u306f\u30eb\u30fc\u30e0\u3092\u4f5c\u6210\u3057\u305f\u3089\u3001\u672c\u30da\u30fc\u30b8\u4e0a\u90e8\u306e\u5165\u529b\u30c1\u30e3\u30c3\u30c8\u3067\u5bfe\u6226\u76f8\u624b\u306b\u30eb\u30fc\u30e0ID\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<li>\u30eb\u30fc\u30eb\u4e0a\u306e\u6642\u9593\u5185\u306b\u30eb\u30fc\u30e0ID\u306e\u8a18\u8f09\u304c\u306a\u304b\u3063\u305f\u3089\u3001Discord\u306e\u30c1\u30e3\u30c3\u30c8\u3067\u904b\u55b6\u306b\u5831\u544a\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<li>Discord\u4e0a\u3067\u9023\u7d61\u304c\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u4e0d\u6226\u6557\u3068\u3057\u3066\u6271\u3046\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002<\/li>\n<li>\u5927\u4f1a\u4e2d\u30c8\u30e9\u30d6\u30eb\u304c\u767a\u751f\u3057\u305f\u5834\u5408\u3001\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8\u3092\u63d0\u793a\u3059\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002<\/li>\n<li>\u30c8\u30e9\u30d6\u30eb\u767a\u751f\u6642\u306b\u5bfe\u6226\u76f8\u624b\u540d\u304c\u5206\u304b\u308b\u5f62\u3067\u53d6\u5f97\u3057\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<\/ul>\n<\/div>","useSegment":0,"useGroupNameOnSelection":false,"segmentDesc":null,"segmentFinalChar":null,"discordChannels":[{"groupCode":null,"blockId":1,"name":"#\u6c7a\u52dd\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u7528","url":"https:\/\/discord.gg\/t32nKFp"}],"defaultDiscordChannel":{"name":"#general","url":null},"labelGameId":"Shadowverse\u5185 \u30b2\u30fc\u30e0ID","csrfToken":"q8tZBL3I2t4zN5PASfApXW81XFc0PcnZa24QdhLZ","competitionFinished":null,"needDiscordDeclaration":false,"individualMatch":false,"matchFormat":"general","svClans":[{"id":1,"name":"\u30a8\u30eb\u30d5","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/1.png"},{"id":2,"name":"\u30ed\u30a4\u30e4\u30eb","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/2.png"},{"id":3,"name":"\u30a6\u30a3\u30c3\u30c1","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/3.png"},{"id":4,"name":"\u30c9\u30e9\u30b4\u30f3","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/4.png"},{"id":5,"name":"\u30cd\u30af\u30ed\u30de\u30f3\u30b5\u30fc","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/5.png"},{"id":6,"name":"\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/6.png"},{"id":7,"name":"\u30d3\u30b7\u30e7\u30c3\u30d7","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/7.png"},{"id":8,"name":"\u30cd\u30e1\u30b7\u30b9","icon":"https:\/\/d2ix66na9gnh44.cloudfront.net\/storage\/app\/media\/clan\/icons\/8.png"}],"renderer":""}}
     </script>
         <div class="competition-content-item main competition-entries">
         <app-root></app-root>
@@ -233,16 +233,16 @@
 <ul class="competition-content-item tab competition-tab--bottom">
 
     <li class="tab-item ">
-        <a href="https://sv.j-cg.com/competition/pQJrYArpi586/home">大会概要</a>
+        <a href="https://sv.j-cg.com/competition/mEnLGmqlk1Em/home">大会概要</a>
     </li>
             <li class="tab-item ">
-            <a href="https://sv.j-cg.com/competition/pQJrYArpi586/entries">参加者一覧</a>
+            <a href="https://sv.j-cg.com/competition/mEnLGmqlk1Em/entries">参加者一覧</a>
         </li>
                 <li class="tab-item active">
-            <a href="https://sv.j-cg.com/competition/pQJrYArpi586/bracket">対戦表</a>
+            <a href="https://sv.j-cg.com/competition/mEnLGmqlk1Em/bracket">対戦表</a>
         </li>
                 <li class="tab-item ">
-            <a href="https://sv.j-cg.com/competition/pQJrYArpi586/results">結果</a>
+            <a href="https://sv.j-cg.com/competition/mEnLGmqlk1Em/results">結果</a>
         </li>
         <li class="tab-item">
         <a href="https://discord.gg/mqGYNSF" target="_blank">大会Discord <span

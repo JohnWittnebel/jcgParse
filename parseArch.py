@@ -15,6 +15,8 @@ from archsMod import lineups
 numClasses = 8
 numArchs = len(archs)
 
+EXCLUDED_ARCH = 9
+
 ########################################
 
 def sortSecond(val):
@@ -258,6 +260,18 @@ def fillMatchupMatrix(matchupMatrix, playerTable, matchTable):
         lossClass2 = -1
 
         for player in playerTable:
+
+            ################
+            # EXCLUDE MATCH RESULTS, FOR CHECKING META MINUS A DECK
+            ################
+        
+            if player[1] == EXCLUDED_ARCH or player[2] == EXCLUDED_ARCH:
+                continue
+    
+            ################
+            # END EXCLUSION
+            ################
+
             if (match[winner] == player[0]):
                 winClass1 = player[1]
                 winClass2 = player[2]
