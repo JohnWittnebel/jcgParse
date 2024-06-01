@@ -15,7 +15,7 @@ from archsMod import lineups
 numClasses = 8
 numArchs = len(archs)
 
-EXCLUDED_ARCH = 9
+EXCLUDED_ARCH = -1
 
 ########################################
 
