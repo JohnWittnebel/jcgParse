@@ -8,7 +8,8 @@ import datetime
 
 ########### TOURNAMENT HASH ############
 
-tourhash = "5f2eb61c0ad5e05d5e217f8c"
+tourhash = "6628ba2468f5760228bba551"
+#tourhash = "5f2eb61c0ad5e05d5e217f8c"
 
 ########################################
 

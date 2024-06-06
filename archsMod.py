@@ -3,10 +3,10 @@
 archs = [
         ["Ladica Forest", [".1.", "7tgtQ.7tgtQ"]],
         ["NTR Sword", [".2.", "7uTPy.7uTPy.7uTPy"]],
-        ["Machina Rune", [".3.", "7urqS.7urqS.7urqS"]],
+        ["Machina Rune", [".3.", "7umxo"]],
         ["Big Dragon", [".4.", "7rLDI.7rLDI"]], 
         ["NTR Dragon", [".4.", "7vEEy.7vEEy.7vEEy"]],
-        ["LW Shadow", [".5.", "7tbGC.7tbGC"]],
+        ["Machina Shadow", [".5.", "7tiay"]],
         ["Wrath Blood", [".6.", "7v_3o.7v_3o.7v_3o"]],
         ["Machina Blood", [".6.", "7kYf6"]],
         ["U10 Blood", [".6.", "7sAwy.7sAwy"]],
